@@ -5,5 +5,7 @@ Việc cài thêm những kext nói trên giúp kích hoạt tính năng APST tr
 # Cần tải thêm những gì?
 
 Tải phần mềm Hackintool tại đây: https://macintosh.vn/app/hackintool/
+
 Cuối cùng thì đọc link bài viết ngay bên dưới
+
 Link bài viết tham khảo: https://tinhte.vn/thread/chia-se-nang-cap-ssd-macbook-pro-2017-non-touchbar-gia-hat-re-chi-800k.3386682/#post-61310833
