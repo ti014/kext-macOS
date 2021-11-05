@@ -1,0 +1,1 @@
+Việc cài thêm những kext nói trên giúp kích hoạt tính năng APST trên SSD không phải của Apple, bởi trong thành phần IONVMeFamily chỉ những SSD chính hãng Apple mới hỗ trợ APST (tạm hiểu là chế độ tiết kiệm điện năng tiêu thụ cho các thành phần linh kiện khi máy ở trạng thái nghỉ), dù trên thực tế những SSD của các thương hiệu khác cũng hỗ trợ tính năng này.
